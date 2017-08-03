@@ -18,7 +18,7 @@ use Classes\Consigment;
 class ConsigmentDetails extends Consigment {
 
     public $dimension1;
-    public $dimension2;
+    public $dimension2; 
     public $dimension3;
     public $weight;
     
